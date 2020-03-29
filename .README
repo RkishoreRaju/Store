@@ -1,0 +1,12 @@
+# E- Commerece site ( Apple Store)
+
+## Elements Used:
+   1) Html 5
+   2) Css 3
+   3) flex
+   4) media queries to design responsive site
+
+## Site description
+  1)We have to create and display all the tags and content using javascript DOM.
+
+### In this site mainly I used class for each tag to add extra properties to understand code easily.
